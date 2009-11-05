@@ -1,3 +1,8 @@
+Changes in this fork
+====================
+
+This fork integrates redmine_messenger with http://github.com/intinno/redmine-status-updates so that developers can update their status via jabber client. 
+
 Redmine Messenger
 =================
 
